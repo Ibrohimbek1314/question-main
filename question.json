@@ -1,0 +1,50 @@
+[
+    {
+        "question": "eng uzun daryo qaysi ?",
+        "a": "Nil",
+        "b": "tinch okeani",
+        "c": "orol dengizi",
+        "d": "kochadagi ariq",
+        "togri javob": "a"
+    },
+    {
+        "question": "Meni ismimi top ?",
+        "a": "Sarvar",
+        "b": "Tohir",
+        "c": "Anvar",
+        "d": "Togri javaob yoq",
+        "togri javob": "d"
+    },
+    {
+        "question": "yer qanday shakilda?",
+        "a": "tortburchak",
+        "b": "dumaloq",
+        "c": "uchburchak",
+        "d": "aval",
+        "togri javob": "b"
+    },
+    {
+        "question": " 5 + 5 ?",
+        "a": "10",
+        "b": "11",
+        "c": "15",
+        "d": "9",
+        "togri javob": "a"
+    },
+    {
+        "question": "Ozbekiston Preziidenti kim ?",
+        "a": "Men",
+        "b": "Abdulla Oripov",
+        "c": "Shavkat Mirzeyoyev",
+        "d": "Bilmiman",
+        "togri javob": "c"
+    },
+    {
+        "question": "O`zbekiston Poytaxti qayer ?",
+        "a": "Samarqand",
+        "b": "Toshkent",
+        "c": "Skver",
+        "d": "Amir Temur haykali",
+        "togri javob": "b"
+    }
+]
